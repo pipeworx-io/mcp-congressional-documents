@@ -2,6 +2,8 @@
 
 Full-text search and retrieval over the official record of Congress — hearing transcripts, committee reports and the Congressional Record. Platform key (data.gov), BYO accepted.
 
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1394+ live data sources.
+
 ## Tools
 
 - `search_congressional_documents(...)` — search the full text of hearings, committee reports, committee prints, House/Senate documents and the Congressional Record. `doc_type` takes plain words (`"hearings"`, `"reports"`, `"record"`).
@@ -76,7 +78,7 @@ The gateway picks the right tool and fills the arguments automatically.
 
 ## More
 
-- [All tools and guides](https://github.com/pipeworx-io/examples)
+- [Docs and guides](https://pipeworx.io/docs)
 - [pipeworx.io](https://pipeworx.io)
 
 ## License
