@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-congressional-documents",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Congressional Documents — full-text search and retrieval over the official",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-2e7acea09c9e9f059b84f49191859fe6f21a9ae121186da493f45192d3410f07",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-9c96ef0f69c1a6b7720ab027d7d47e38b0113f8575422004079f5d1c334a4e0c",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
