@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/congressional-documents",
   "title": "Congressional Documents",
   "description": "Congressional Documents — full-text search and retrieval over the official record of Congress…",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/congressional-documents",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-congressional-documents",
