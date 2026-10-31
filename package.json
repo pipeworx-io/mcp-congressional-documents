@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-congressional-documents",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Congressional Documents — full-text search and retrieval over the official record of Congress: hearing transcripts, committee reports, committee prints, House/Senate documents, and the Congressional Record.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "congressional-documents",
     "gatewaySlug": "congressional-documents",
-    "sourceHash": "v1-0f505c75862b3ce78a8374bc5a080169efe58fba36bd03061c8777fbdf2a9796",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-f6b3b0d016c612ef1fe5490d21aa6e185a4733fe283481567fd7e7ad8d2f95db",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
